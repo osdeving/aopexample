@@ -1,4 +1,4 @@
-package com.willams.aopexample;
+package com.willams.aopexample.nospringboot;
 
 import org.springframework.aop.framework.ProxyFactory;
 

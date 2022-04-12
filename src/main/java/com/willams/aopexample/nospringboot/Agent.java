@@ -1,4 +1,4 @@
-package com.willams.aopexample;
+package com.willams.aopexample.nospringboot;
 
 public class Agent {
 	public void speak() {

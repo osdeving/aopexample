@@ -12,5 +12,7 @@ At first we have a simple Agent class wich print "Bond", after that we have a Ag
 - Spring Framework
 
 ## how to buid
-mvn clean install
-mvn spring-boot:run
+
+```$ mvn clean install```
+
+```$ mvn spring-boot:run```
